@@ -4,6 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:choiceMode="singleChoice"
-    android:divider="@android:color/transparent"
+    android:divider="@android:color/darker_gray"
     android:dividerHeight="0dp"
-    android:background="#cc9bbfb9" tools:context=".NavigationDrawerFragment" />
+    tools:context=".NavigationDrawerFragment" />
