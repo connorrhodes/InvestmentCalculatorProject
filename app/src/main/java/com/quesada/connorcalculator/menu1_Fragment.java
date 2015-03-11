@@ -73,7 +73,7 @@ public class menu1_Fragment extends android.support.v4.app.Fragment {
                             // click listener on the alert box
                             public void onClick(DialogInterface arg0, int arg1) {
                                 // the button was clicked
-                                Toast.makeText(getActivity(), "Your screwed!!!!", Toast.LENGTH_LONG).show();
+                                Toast.makeText(getActivity(), "Thank you!!!!", Toast.LENGTH_LONG).show();
                             }
                         });
 
